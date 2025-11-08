@@ -1,0 +1,9 @@
+names:
+- Sunflower
+- Backside-Sunflower
+- Sunflower
+nc: 3
+path: /kaggle/working/SSL-simclr
+test: test/images
+train: train/images
+val: valid/images
